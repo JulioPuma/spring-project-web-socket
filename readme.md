@@ -1,6 +1,6 @@
-#  Base Project for Spring
+#  Spring Project using Web Socket
 
-Project used like template for other projects.
+Project using websocket in springboot
 
 * Language: Java 17 
 * Framework: SpringBoot 3
@@ -11,7 +11,7 @@ Project used like template for other projects.
 
 ## Dependencies
 
-- spring-boot-starter-web
+- spring-boot-starter-websocket
 - lombok
 
 ## Package
